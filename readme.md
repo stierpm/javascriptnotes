@@ -12,6 +12,9 @@
 - **Multiply:** *
 - **Divide:** /
 
+### Variables
+Variables store information and are declared by starting your statement with 'var' followed by a space and the name of the variable.
+
 ### Properties
 Each piece of data has additional information attached to it, known as properties. Append the data with a period, followed by the property.
 - [Javascript properties index](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index#A)
